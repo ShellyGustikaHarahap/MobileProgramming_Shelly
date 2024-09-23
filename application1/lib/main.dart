@@ -314,4 +314,3 @@ class CellDetailPage extends StatelessWidget {
     );
   }
 }
-
